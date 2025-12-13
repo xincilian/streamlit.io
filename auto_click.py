@@ -13,6 +13,7 @@ import os
 URLS = [
     "https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/",
     "https://lanchappfr.g1-eu-west.galaxycloud.app/",
+    "https://hug.xcl.pp.ua/",
     "https://lanchappus.g1-us-east.galaxycloud.app/"
 ]
 
