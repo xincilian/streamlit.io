@@ -10,3 +10,5 @@
 [2025-12-18 16:27:52] URL: https://hug.xcl.pp.ua/ —— 未发现按钮
 [2025-12-19 01:24:32] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
 [2025-12-19 01:25:05] URL: https://hug.xcl.pp.ua/ —— 未发现按钮
+[2025-12-19 08:26:17] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
+[2025-12-19 08:26:49] URL: https://lanchhug-webapp.hf.space/ —— 未发现按钮
