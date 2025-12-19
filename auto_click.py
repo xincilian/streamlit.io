@@ -12,7 +12,7 @@ import os
 # -------------------------
 URLS = [
     "https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/",
-    "https://hug.xcl.pp.ua/"
+    "https://lanchhug-webapp.hf.space/"
 ]
 
 log_file = "click_log.txt"
