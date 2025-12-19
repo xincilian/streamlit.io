@@ -12,7 +12,9 @@ import os
 # -------------------------
 URLS = [
     "https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/",
-    "https://lanchhug-webapp.hf.space/"
+    "https://lanchhug-webapp.hf.space/",
+    "https://lanch.zeabur.app/",
+    "https://mywebite.zeabur.app/"
 ]
 
 log_file = "click_log.txt"
