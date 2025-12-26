@@ -14,7 +14,8 @@ URLS = [
     "https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/",
     "https://lanchhug-webapp.hf.space/",
     "https://lanch.zeabur.app/",
-    "https://mywebite.zeabur.app/"
+    "https://mywebite.zeabur.app/",
+    "https://shiper-schreckhorn.on.shiper.app/"
 ]
 
 log_file = "click_log.txt"
