@@ -15,6 +15,7 @@ URLS = [
     "https://lanchhug-webapp.hf.space/",
     "https://lanch.zeabur.app/",
     "https://mywebite.zeabur.app/",
+    "https://lanchappfr.g1-eu-west.galaxycloud.app/",
     "https://shiper-schreckhorn.on.shiper.app/"
 ]
 
