@@ -16,8 +16,7 @@ URLS = [
     "https://lanch.zeabur.app/",
     "https://mywebite.zeabur.app/",
     "https://lanchappfr.g1-eu-west.galaxycloud.app/",
-    "https://lanchappus.g1-us-east.galaxycloud.app/",
-    "https://shiper-schreckhorn.on.shiper.app/"
+    "https://lanchappus.g1-us-east.galaxycloud.app/"
 ]
 
 log_file = "click_log.txt"
