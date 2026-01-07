@@ -1,8 +1,3 @@
-[2026-01-05 15:45:06] URL: https://mywebite.zeabur.app/ —— 错误：HTTPConnectionPool(host='localhost', port=50889): Read timed out. (read timeout=120)
-[2026-01-05 15:50:06] URL: https://lanchappfr.g1-eu-west.galaxycloud.app/ —— 未发现按钮
-[2026-01-05 15:50:37] URL: https://lanchappus.g1-us-east.galaxycloud.app/ —— 未发现按钮
-[2026-01-05 20:43:14] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
-[2026-01-05 20:43:47] URL: https://lanchhug-webapp.hf.space/ —— 未发现按钮
 [2026-01-05 20:44:18] URL: https://lanch.zeabur.app/ —— 未发现按钮
 [2026-01-05 20:44:49] URL: https://mywebite.zeabur.app/ —— 未发现按钮
 [2026-01-05 20:45:20] URL: https://lanchappfr.g1-eu-west.galaxycloud.app/ —— 未发现按钮
@@ -61,3 +56,9 @@
 [2026-01-07 15:46:39] URL: https://mywebite.zeabur.app/ —— 未发现按钮
 [2026-01-07 15:47:10] URL: https://lanchappfr.g1-eu-west.galaxycloud.app/ —— 未发现按钮
 [2026-01-07 15:47:41] URL: https://lanchappus.g1-us-east.galaxycloud.app/ —— 未发现按钮
+[2026-01-07 20:44:06] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
+[2026-01-07 20:44:39] URL: https://lanchhug-webapp.hf.space/ —— 未发现按钮
+[2026-01-07 20:45:10] URL: https://lanch.zeabur.app/ —— 未发现按钮
+[2026-01-07 20:45:40] URL: https://mywebite.zeabur.app/ —— 未发现按钮
+[2026-01-07 20:46:12] URL: https://lanchappfr.g1-eu-west.galaxycloud.app/ —— 未发现按钮
+[2026-01-07 20:46:43] URL: https://lanchappus.g1-us-east.galaxycloud.app/ —— 未发现按钮
