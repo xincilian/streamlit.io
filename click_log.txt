@@ -26,10 +26,6 @@ Stacktrace:
 #23 0x7fc374e9caa4 <unknown>
 #24 0x7fc374f29c6c <unknown>
 
-[2026-05-26 04:39:05] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
-[2026-05-26 04:39:38] URL: https://lanch.zeabur.app/ —— 未发现按钮
-[2026-05-26 04:40:10] URL: https://mywebite.zeabur.app/ —— 未发现按钮
-[2026-05-26 04:40:49] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-05-26 08:45:58] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
 [2026-05-26 08:46:31] URL: https://lanch.zeabur.app/ —— 未发现按钮
 [2026-05-26 08:47:03] URL: https://mywebite.zeabur.app/ —— 未发现按钮
@@ -66,3 +62,7 @@ Stacktrace:
 [2026-05-27 22:13:58] URL: https://lanch.zeabur.app/ —— 未发现按钮
 [2026-05-27 22:14:32] URL: https://mywebite.zeabur.app/ —— 未发现按钮
 [2026-05-27 22:15:11] URL: https://lanch.wasmer.app/ —— 未发现按钮
+[2026-05-28 04:46:58] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
+[2026-05-28 04:47:31] URL: https://lanch.zeabur.app/ —— 未发现按钮
+[2026-05-28 04:48:03] URL: https://mywebite.zeabur.app/ —— 错误：HTTPConnectionPool(host='localhost', port=45353): Read timed out. (read timeout=120)
+[2026-05-28 04:51:21] URL: https://lanch.wasmer.app/ —— 未发现按钮
