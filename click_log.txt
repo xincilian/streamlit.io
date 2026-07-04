@@ -26,10 +26,6 @@ Stacktrace:
 #23 0x7fc374e9caa4 <unknown>
 #24 0x7fc374f29c6c <unknown>
 
-[2026-07-01 21:54:08] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
-[2026-07-01 21:54:41] URL: https://lanch.zeabur.app/ —— 未发现按钮
-[2026-07-01 21:55:28] URL: https://mywebite.zeabur.app/ —— 未发现按钮
-[2026-07-01 21:56:29] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-07-02 04:35:01] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
 [2026-07-02 04:35:33] URL: https://lanch.zeabur.app/ —— 未发现按钮
 [2026-07-02 04:36:05] URL: https://mywebite.zeabur.app/ —— 未发现按钮
@@ -70,3 +66,35 @@ Stacktrace:
 [2026-07-03 21:36:22] URL: https://lanch.zeabur.app/ —— 未发现按钮
 [2026-07-03 21:37:08] URL: https://mywebite.zeabur.app/ —— 未发现按钮
 [2026-07-03 21:37:41] URL: https://lanch.wasmer.app/ —— 未发现按钮
+[2026-07-04 04:07:06] URL: https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/ —— 未发现按钮
+[2026-07-04 04:07:39] URL: https://lanch.zeabur.app/ —— 未发现按钮
+[2026-07-04 04:08:40] URL: https://mywebite.zeabur.app/ —— 错误：Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=149.0.7827.200)
+Stacktrace:
+#0 0x55c6415503da <unknown>
+#1 0x55c640f32139 <unknown>
+#2 0x55c640f29033 <unknown>
+#3 0x55c640f19f01 <unknown>
+#4 0x55c640f1bc7c <unknown>
+#5 0x55c640f1a3fa <unknown>
+#6 0x55c640f19a79 <unknown>
+#7 0x55c640f19696 <unknown>
+#8 0x55c640f1727b <unknown>
+#9 0x55c640f17ac0 <unknown>
+#10 0x55c640f35bed <unknown>
+#11 0x55c640fcf86b <unknown>
+#12 0x55c640fceb5c <unknown>
+#13 0x55c640f79e4f <unknown>
+#14 0x55c640f7ac31 <unknown>
+#15 0x55c6415169f7 <unknown>
+#16 0x55c641515203 <unknown>
+#17 0x55c6414fff16 <unknown>
+#18 0x55c641515d9a <unknown>
+#19 0x55c6414e7eb0 <unknown>
+#20 0x55c64153cd58 <unknown>
+#21 0x55c64153cef5 <unknown>
+#22 0x55c64154ef5e <unknown>
+#23 0x7ff4e7a9caa4 <unknown>
+#24 0x7ff4e7b29c6c <unknown>
+
+[2026-07-04 04:08:41] URL: https://lanch.wasmer.app/ —— 未发现按钮
