@@ -11,9 +11,7 @@ import os
 # 配置
 # -------------------------
 URLS = [
-    "https://upload-agsb-v2py-eexmzvfgekmyfjo6cvjjxq.streamlit.app/",
-    "https://lanch.zeabur.app/",
-    "https://mywebite.zeabur.app/",
+    "https://ck2kbbxx8kyqjszqnfofai.streamlit.app/",
     "https://lanch.wasmer.app/"
 ]
 
