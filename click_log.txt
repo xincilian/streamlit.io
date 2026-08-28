@@ -54,14 +54,6 @@ Stacktrace:
 #23 0x7ff4e7a9caa4 <unknown>
 #24 0x7ff4e7b29c6c <unknown>
 
-[2026-08-25 20:50:51] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
-[2026-08-25 20:51:24] URL: https://lanch.wasmer.app/ —— 未发现按钮
-[2026-08-26 02:03:30] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
-[2026-08-26 02:04:03] URL: https://lanch.wasmer.app/ —— 未发现按钮
-[2026-08-26 05:55:07] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
-[2026-08-26 05:55:41] URL: https://lanch.wasmer.app/ —— 未发现按钮
-[2026-08-26 10:55:55] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
-[2026-08-26 10:56:30] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-08-26 16:35:26] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-08-26 16:35:59] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-08-26 23:46:52] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
@@ -70,3 +62,5 @@ Stacktrace:
 [2026-08-27 10:01:35] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-08-27 20:36:39] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-08-27 20:37:13] URL: https://lanch.wasmer.app/ —— 未发现按钮
+[2026-08-28 11:32:35] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 按钮已点击，等待45秒完成
+[2026-08-28 11:33:53] URL: https://lanch.wasmer.app/ —— 未发现按钮
