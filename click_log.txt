@@ -68,3 +68,5 @@ Stacktrace:
 [2026-08-31 17:39:35] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-08-31 23:55:50] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-08-31 23:56:23] URL: https://lanch.wasmer.app/ —— 未发现按钮
+[2026-09-01 05:21:23] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
+[2026-09-01 05:21:55] URL: https://lanch.wasmer.app/ —— 未发现按钮
