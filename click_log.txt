@@ -54,8 +54,6 @@ Stacktrace:
 #23 0x7ff4e7a9caa4 <unknown>
 #24 0x7ff4e7b29c6c <unknown>
 
-[2026-09-12 22:24:22] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
-[2026-09-12 22:24:55] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-09-13 04:59:38] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-09-13 05:00:11] URL: https://lanch.wasmer.app/ —— 错误：HTTPConnectionPool(host='localhost', port=49945): Read timed out. (read timeout=120)
 [2026-09-13 10:23:10] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
@@ -72,3 +70,5 @@ Stacktrace:
 [2026-09-14 10:49:05] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-09-14 19:52:15] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-09-14 19:52:49] URL: https://lanch.wasmer.app/ —— 未发现按钮
+[2026-09-14 23:13:18] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
+[2026-09-14 23:13:52] URL: https://lanch.wasmer.app/ —— 未发现按钮
