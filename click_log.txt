@@ -66,3 +66,33 @@ Stacktrace:
 [2026-10-09 11:59:29] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-10-09 20:09:12] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-10-09 20:09:45] URL: https://lanch.wasmer.app/ —— 未发现按钮
+[2026-10-10 00:06:13] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
+[2026-10-10 00:06:46] URL: https://lanch.wasmer.app/ —— 错误：Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=154.0.8037.97)
+Stacktrace:
+#0 0x562cac92baaa <unknown>
+#1 0x562cac259aa9 <unknown>
+#2 0x562cac250936 <unknown>
+#3 0x562cac241971 <unknown>
+#4 0x562cac2436b0 <unknown>
+#5 0x562cac241e5a <unknown>
+#6 0x562cac2414f9 <unknown>
+#7 0x562cac241116 <unknown>
+#8 0x562cac23ed40 <unknown>
+#9 0x562cac23f560 <unknown>
+#10 0x562cac25d551 <unknown>
+#11 0x562cac2faecb <unknown>
+#12 0x562cac2fa1df <unknown>
+#13 0x562cac2a3148 <unknown>
+#14 0x562cac2a3f11 <unknown>
+#15 0x562cac8ee5ac <unknown>
+#16 0x562cac8ecdc5 <unknown>
+#17 0x562cac8d7e95 <unknown>
+#18 0x562cac8eda1a <unknown>
+#19 0x562cac8c05c9 <unknown>
+#20 0x562cac9160f8 <unknown>
+#21 0x562cac916295 <unknown>
+#22 0x562cac92a3f3 <unknown>
+#23 0x7f5c75c9cb84 <unknown>
+#24 0x7f5c75d29ecc <unknown>
+
