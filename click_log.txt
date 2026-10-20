@@ -82,10 +82,6 @@ Stacktrace:
 #23 0x7f5c75c9cb84 <unknown>
 #24 0x7f5c75d29ecc <unknown>
 
-[2026-10-17 22:27:23] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
-[2026-10-17 22:27:56] URL: https://lanch.wasmer.app/ —— 未发现按钮
-[2026-10-18 04:47:11] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
-[2026-10-18 04:47:43] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-10-18 09:43:26] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-10-18 09:44:00] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-10-18 14:03:25] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
@@ -100,3 +96,5 @@ Stacktrace:
 [2026-10-19 10:58:45] URL: https://lanch.wasmer.app/ —— 未发现按钮
 [2026-10-19 20:38:01] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
 [2026-10-19 20:38:34] URL: https://lanch.wasmer.app/ —— 未发现按钮
+[2026-10-20 05:01:22] URL: https://ck2kbbxx8kyqjszqnfofai.streamlit.app/ —— 未发现按钮
+[2026-10-20 05:01:55] URL: https://lanch.wasmer.app/ —— 未发现按钮
